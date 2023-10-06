@@ -1,8 +1,6 @@
-Hi I am NetherBlade, 
+Hi, I am NetherBlade, 
 
-I code or somthing close to that
-
-I am a Youtuber
+Me and Lemon Dr founded FFFE but he branched off and started SynthoSphere
 
 <!---
 NetherBlade6/NetherBlade6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
